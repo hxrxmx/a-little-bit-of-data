@@ -5,5 +5,5 @@
 ## Использование
 
 ```bash
-  curl -o file.mp4 https://raw.githubusercontent.com/hxrxmx/a-little-bit-of-data/master/<filename>
+curl -o file.mp4 https://raw.githubusercontent.com/hxrxmx/a-little-bit-of-data/master/<filename>
 ```
